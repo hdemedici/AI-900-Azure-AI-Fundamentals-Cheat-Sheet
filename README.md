@@ -100,15 +100,8 @@ Azure Machine Learning provides tools and services for:
 #### Identify Common Types of Computer Vision Solutions
 - **Image Classification**: Assigning labels to images.
 - **Object Detection**: Identifying and locating multiple objects within an image.
-- **Optical Character Recognition (OCR)**: Extracting text from images.
-- **Facial Detection and Analysis**: Recognizing and analyzing faces.
-  - *Azure Tool*: [Azure Computer Vision](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/), [Azure Face](https://azure.microsoft.com/en-us/services/cognitive-services/face/)
-
-#### Identify Features of Image Classification, Object Detection, Optical Character Recognition, and Facial Detection/Analysis Solutions
-- **Image Classification**: Assigning categories to images.
-- **Object Detection**: Identifying and locating multiple objects within an image.
-- **Optical Character Recognition (OCR)**: Converting images of text into machine-readable text.
-- **Facial Detection/Analysis**: Detecting faces and analyzing facial features and expressions.
+- **Optical Character Recognition (OCR)**: Extracting text from images. Converting images of text into machine-readable text.
+- **Facial Detection and Analysis**: Recognizing and analyzing faces. Detecting faces and analyzing facial features and expressions.
   - *Azure Tool*: [Azure Computer Vision](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/), [Azure Face](https://azure.microsoft.com/en-us/services/cognitive-services/face/)
 
 #### Describe Azure Tools and Services for Computer Vision Tasks
