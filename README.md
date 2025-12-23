@@ -115,21 +115,12 @@ Azure Machine Learning provides tools and services for:
 ### 4. Describe Features of Natural Language Processing (NLP) Workloads on Azure (15–20%)
 
 #### Identify Features of Common NLP Workload Scenarios
-- **Key Phrase Extraction**: Identifying important phrases in text.
-- **Entity Recognition**: Detecting and classifying entities in text.
-- **Sentiment Analysis**: Determining the sentiment expressed in text.
-- **Language Modeling**: Predicting the next word or phrase.
-- **Speech Recognition and Synthesis**: Converting speech to text and vice versa.
-- **Translation**: Translating text or speech between languages.
-  - *Azure Tool*: [Azure Cognitive Services for Language](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/), [Azure Speech](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/), [Azure Translator](https://azure.microsoft.com/en-us/services/cognitive-services/translator/)
-
-#### Identify Features and Uses for Key Phrase Extraction, Entity Recognition, Sentiment Analysis, Language Modeling, Speech Recognition and Synthesis, and Translation
-- **Key Phrase Extraction**: Summarizing the main points in a text.
-- **Entity Recognition**: Identifying entities such as names and dates.
-- **Sentiment Analysis**: Measuring sentiment in customer feedback.
-- **Language Modeling**: Autocompleting sentences.
-- **Speech Recognition and Synthesis**: Voice assistants and transcription services.
-- **Translation**: Real-time translation services.
+- **Key Phrase Extraction**: Identifying important phrases in text. Summarizing the main points in a text.
+- **Entity Recognition**: Detecting and classifying entities in text. Identifying entities such as names and dates.
+- **Sentiment Analysis**: Determining the sentiment expressed in text. Measuring sentiment in customer feedback.
+- **Language Modeling**: Predicting the next word or phrase. Autocompleting sentences.
+- **Speech Recognition and Synthesis**: Converting speech to text and vice versa. Voice assistants and transcription services.
+- **Translation**: Translating text or speech between languages. Real-time translation services.
   - *Azure Tool*: [Azure Cognitive Services for Language](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/), [Azure Speech](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/), [Azure Translator](https://azure.microsoft.com/en-us/services/cognitive-services/translator/)
 
 #### Describe Azure Tools and Services for NLP Workloads
