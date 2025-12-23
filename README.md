@@ -1,17 +1,5 @@
 # AI-900 Azure AI Fundamentals Cheat Sheet
 
-![ViewCount](https://views.whatilearened.today/views/github/drahulsingh/AI-900-Azure-AI-Fundamentals-Cheat-Sheet.svg) 
-
-<img src="https://github.com/drahulsingh/AI-900-Azure-AI-Fundamentals-Cheat-Sheet/assets/76787888/3e12fed9-0111-4e83-9750-2c433e2990a0" alt="Badge" width="150" height="150">
-
-## Skills at a Glance
-
-1. [Describe Artificial Intelligence Workloads and Considerations (15–20%)](#1-describe-artificial-intelligence-workloads-and-considerations-1520) 
-2. [Describe Fundamental Principles of Machine Learning on Azure (20–25%)](#2-describe-fundamental-principles-of-machine-learning-on-azure-2025)
-3. [Describe Features of Computer Vision Workloads on Azure (15–20%)](#3-describe-features-of-computer-vision-workloads-on-azure-1520)
-4. [Describe Features of Natural Language Processing (NLP) Workloads on Azure (15–20%)](#4-describe-features-of-natural-language-processing-nlp-workloads-on-azure-1520)
-5. [Describe Features of Generative AI Workloads on Azure (15–20%)](#5-describe-features-of-generative-ai-workloads-on-azure-1520)
-
 ## Exam Topics Overview
 
 ### 1. Describe Artificial Intelligence Workloads and Considerations (15–20%)
@@ -184,46 +172,3 @@ Generative AI models can create new content, such as text, images, and code. The
 - **Code Generation**: Assisting developers by generating code.
 - **Image Generation**: Creating images from text descriptions.
   - *Azure Tool*: [Azure OpenAI Service](https://azure.microsoft.com/en-us/services/openai-service/)
-
-### Study Resources
-
-| Resource | Description |
-|----------|-------------|
-| [Review the skills measured as of April 24, 2024](https://learn.microsoft.com/en-us/certifications/exams/ai-900) | Study this list if you plan to take the exam after this date. |
-| [Review the skills measured prior to April 24, 2024](https://learn.microsoft.com/en-us/certifications/exams/ai-900) | Study this list if you plan to take the exam before this date. |
-| [Exam sandbox](https://aka.ms/exam-sandbox) | Explore the exam environment. |
-| [Request accommodations](https://learn.microsoft.com/en-us/certifications/accommodations) | Request exam accommodations if needed. |
-| [Free Practice Assessment](https://aka.ms/practice-assessments) | Test your skills with practice questions. |
-| [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/profile) | Connect your certification profile to Microsoft Learn. |
-| [Certification Renewal](https://learn.microsoft.com/en-us/certifications/renew) | Renew your certifications annually by passing a free online assessment. |
-
-### Official Documentation and Learning Resources
-
-| Resource | Link |
-|----------|------|
-| [Azure Machine Learning](https://learn.microsoft.com/en-us/azure/machine-learning/) | Comprehensive documentation on Azure Machine Learning. |
-| [Computer Vision](https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/) | Detailed guides and tutorials on Azure Computer Vision. |
-| [Azure AI Language](https://learn.microsoft.com/en-us/azure/cognitive-services/language-service/) | Documentation for Azure AI Language services. |
-| [Azure AI Speech](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/) | Information on Azure AI Speech services. |
-| [Azure Bot Service](https://learn.microsoft.com/en-us/azure/bot-service/) | Guides and tutorials for Azure Bot Service. |
-| [Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai-service/) | Documentation on Azure OpenAI Service. |
-
-### Community and Support
-
-- [Microsoft Q&A](https://learn.microsoft.com/en-us/answers/topics/azure-artificial-intelligence.html)
-- [AI and Machine Learning Hub](https://techcommunity.microsoft.com/t5/ai-cognitive-services/bg-p/AI)
-
-### Videos and Shows
-
-- [The AI Show](https://aka.ms/ai-show)
-- [Microsoft Learn Shows](https://learn.microsoft.com/en-us/shows/)
-
-### Change Log
-For detailed changes in the exam skills measured, refer to the [Change Log](https://learn.microsoft.com/en-us/certifications/exams/ai-900#change-log).
-
-## Conclusion
-This cheat sheet provides an overview of the key topics for the AI-900 exam. Use the provided links and resources to deepen your understanding and prepare effectively.
-
-Good luck with your exam!
-
-[Back to Top](#AI-900-Azure-AI-Fundamentals-Cheat-Sheet)
